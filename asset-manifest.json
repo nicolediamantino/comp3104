@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/nicolediamantino/comp3104/static/css/main.27ca76a1.css",
+    "main.js": "/nicolediamantino/comp3104/static/js/main.4d3b19a4.js",
+    "static/js/453.ebe2eb95.chunk.js": "/nicolediamantino/comp3104/static/js/453.ebe2eb95.chunk.js",
+    "index.html": "/nicolediamantino/comp3104/index.html",
+    "main.27ca76a1.css.map": "/nicolediamantino/comp3104/static/css/main.27ca76a1.css.map",
+    "main.4d3b19a4.js.map": "/nicolediamantino/comp3104/static/js/main.4d3b19a4.js.map",
+    "453.ebe2eb95.chunk.js.map": "/nicolediamantino/comp3104/static/js/453.ebe2eb95.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.27ca76a1.css",
+    "static/js/main.4d3b19a4.js"
+  ]
+}
