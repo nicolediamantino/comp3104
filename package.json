@@ -4,13 +4,12 @@
   "description": "- Nicole Diamantino - George Brown College",
   "main": "index.js",
   "scripts": {
-          "start": "react-scripts start",
+    "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "echo \"Error: no test specified\"",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
-
   },
   "repository": {
     "type": "git",
@@ -22,7 +21,7 @@
   "bugs": {
     "url": "https://github.com/nicolediamantino/comp3104/issues"
   },
-  "homepage": "https://github.com/nicolediamantino/comp3104#readme",
+  "homepage": "https://github.com/nicolediamantino/comp3104",
   "dependencies": {
 
     "@testing-library/dom": "^10.4.2",
