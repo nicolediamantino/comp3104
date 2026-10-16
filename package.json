@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "- Nicole Diamantino - George Brown College",
   "main": "index.js",
+   "homepage": "https://nicolediamantino.github.io/comp3104",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
@@ -21,7 +22,6 @@
   "bugs": {
     "url": "https://github.com/nicolediamantino/comp3104/issues"
   },
-  "homepage": "https://github.com/nicolediamantino/comp3104",
   "dependencies": {
 
     "@testing-library/dom": "^10.4.2",
