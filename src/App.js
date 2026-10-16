@@ -13,6 +13,7 @@ const App = () => {
   return (
     <div className="App">
       <h1>Student Information System</h1>
+      <h3>George Brown College - COMP3104 - DevOps</h3>
       <h5>Developed By: 101394035 || Nicole Diamantino || DevOps</h5>
       <StudentForm addStudent={addStudent} />
       <StudentList students={students} />
